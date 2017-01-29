@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\Matrices\bin\Debug\Matrices.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\Matrices\bin\Debug\Matrices.exe
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\Matrices\bin\Debug\Matrices.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\Matrices\obj\Debug\Matrices.exe
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\Matrices\obj\Debug\Matrices.pdb

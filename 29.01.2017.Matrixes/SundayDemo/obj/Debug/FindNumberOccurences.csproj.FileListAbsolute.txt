@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\SundayDemo\obj\Debug\FindNumberOccurences.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\SundayDemo\bin\Debug\SundayDemo.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\SundayDemo\bin\Debug\SundayDemo.exe
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\SundayDemo\bin\Debug\SundayDemo.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\SundayDemo\obj\Debug\SundayDemo.exe
+c:\users\viktor\documents\visual studio 2015\Projects\SundayDemo\SundayDemo\obj\Debug\SundayDemo.pdb
