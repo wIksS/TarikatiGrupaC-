@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\Bank\bin\Debug\Bank.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\Bank\bin\Debug\Bank.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\Bank\bin\Debug\Bank.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\Bank\obj\Debug\Bank.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\Bank\obj\Debug\Bank.pdb

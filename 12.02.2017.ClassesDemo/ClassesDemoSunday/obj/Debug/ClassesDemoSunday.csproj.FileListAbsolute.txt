@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\ClassesDemoSunday\bin\Debug\ClassesDemoSunday.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\ClassesDemoSunday\bin\Debug\ClassesDemoSunday.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\ClassesDemoSunday\bin\Debug\ClassesDemoSunday.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\ClassesDemoSunday\obj\Debug\ClassesDemoSunday.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\ClassesDemoSunday\obj\Debug\ClassesDemoSunday.exe
+c:\users\viktor\documents\visual studio 2015\Projects\ClassesDemoSunday\ClassesDemoSunday\obj\Debug\ClassesDemoSunday.pdb
