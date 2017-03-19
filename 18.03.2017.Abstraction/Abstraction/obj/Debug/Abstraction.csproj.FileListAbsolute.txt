@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2015\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+c:\users\viktor\documents\visual studio 2015\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+c:\users\viktor\documents\visual studio 2015\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

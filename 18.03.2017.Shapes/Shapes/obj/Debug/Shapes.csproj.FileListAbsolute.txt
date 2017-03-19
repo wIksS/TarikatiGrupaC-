@@ -1,0 +1,5 @@
+c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.exe
+c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.exe
+c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
