@@ -24,7 +24,7 @@ namespace Shapes
 
         public override void Move()
         {
-            this.Position = Direction.GetNewPosition(this.Position);
+            Direction.GetNewPosition(this.Position);
         }
     }
 }

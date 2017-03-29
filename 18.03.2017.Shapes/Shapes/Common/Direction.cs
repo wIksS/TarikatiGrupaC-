@@ -32,6 +32,8 @@ namespace Shapes
 
         public Position GetNewPosition(Position position)
         {
+            position.Row = 10101;
+            return position;
             if (direction == "left")
             {
                 position = new Position(position.Row, position.Col - 1);

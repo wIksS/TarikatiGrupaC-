@@ -15,7 +15,7 @@ namespace Shapes
             this.Direction = new Direction();
         }
 
-        protected IRenderer Renderer { get; set; }
+        public IRenderer Renderer { get; set; }
 
         public Direction Direction { get; set; }
 

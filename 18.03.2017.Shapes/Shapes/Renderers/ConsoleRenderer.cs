@@ -8,7 +8,9 @@ using Shapes;
 namespace Abstraction
 {
     public class ConsoleRenderer : IRenderer
-    { 
+    {
+        public int X { get; set; }
+
         public void Write(object input)
         {
             Console.Write(input);        

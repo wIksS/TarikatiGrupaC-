@@ -3,3 +3,9 @@ c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Sh
 c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
 c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.exe
 c:\users\viktor\documents\visual studio 2015\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Viktor\Desktop\OldDesktop2\Tarikati\18.03.2017.Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Viktor\Desktop\OldDesktop2\Tarikati\18.03.2017.Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Viktor\Desktop\OldDesktop2\Tarikati\18.03.2017.Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Viktor\Desktop\OldDesktop2\Tarikati\18.03.2017.Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Viktor\Desktop\OldDesktop2\Tarikati\18.03.2017.Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Viktor\Desktop\OldDesktop2\Tarikati\18.03.2017.Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
